@@ -1,0 +1,74 @@
+
+/* section-6 */
+.section-6 {
+    background-color: #006764;
+    color: #F4ECE8;
+}
+
+.section-6 .sub-section-div-006 {
+    padding: 0 0 5%;
+}
+
+.section-6 .section-div-6 .sub-section-div-006 .thrilled-customer-div {
+    text-align: center;
+}
+
+.section-6 .section-div-6 .sub-section-div-006 .thrilled-customer-div h2 {
+    font-size: 5rem;
+    font-weight: 800;
+    padding-top: 12%;
+}
+
+.section-6 .section-div-6 .sub-section-div-006 .thrilled-customer-div p {
+    font-size: 1.2rem;
+}
+
+.section-6 .section-div-6 .sub-section-div-006 .maincard-div-006 i {
+    color: #369392;
+    font-size: 21px;
+    margin: 3% 0%;
+}
+
+.section-6 .section-div-6 .sub-section-div-006 .maincard-div-006 h3 {
+    font-size: 19px;
+    font-weight: 800;
+    margin: 4% 0%;
+}
+
+.section-6 .section-div-6 .sub-section-div-006 .maincard-div-006 .img-text-div .sub-n-text {
+    width: 50px;
+    height: 50px;
+    background-color: #369392;
+    color: #006764;
+    font-weight: 800;
+    text-align: center;
+    border-radius: 50%;
+    font-size: 19px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.section-6 .section-div-6 .sub-section-div-006 .maincard-div-006 .img-div-006 {
+    display: flex;
+    margin: 8% 0 2%;
+}
+
+.section-6 .section-div-6 .sub-section-div-006 .maincard-div-006 .img-div-006 .text-div {
+    margin-left: 4%;
+}
+
+.section-6 .section-div-6 .sub-section-div-006 .maincard-div-006 .img-div-006 .text-div h6 {
+    font-size: 15px;
+    font-weight: 900;
+    margin-top: 5px;
+    margin-bottom: 4px;
+}
+
+.section-6 .section-div-6 .sub-section-div-006 .main-div-star {
+    border: 3px solid #369392;
+    padding: 6% 9% 5%;
+    border-radius: 31px;
+    margin-top: 4%;
+}

@@ -1,0 +1,146 @@
+
+/* .section-5 */
+.section-5 {
+    background-color: #F4ECE8;
+}
+
+.section-5 .section-div-5 {
+    padding: 5% 0%;
+}
+
+/* .sub-section-div-005{
+    display: flex;
+} */
+.section-5 .section-div-5 .sub-section-div-005 .meet-our-team-div {
+    text-align: center;
+    margin: 5% 0%;
+}
+
+.section-5 .section-div-5 .sub-section-div-005 .meet-our-team-div h2 {
+    font-size: 77px;
+    font-weight: 800;
+}
+
+.section-5 .section-div-5 .sub-section-div-005 .meet-our-team-div p {
+    font-size: 19px;
+}
+
+
+/* new */
+.main-flip-card-div {
+    display: flex;
+}
+
+.main-flip-card-div .flip-card-front img {
+    width: 270px;
+}
+
+.main-flip-card-div .flip-card-front h4 {
+    background-color: black;
+    color: white;
+    margin-bottom: 0;
+}
+
+.main-flip-card-div .flip-card-front p {
+    background-color: black;
+    color: white;
+}
+
+.flip-card {
+    background-color: rgb(184, 183, 182);
+    width: 281px;
+    height: 360px;
+    perspective: 1000px;
+    border: 6px solid black;
+    margin: 2px auto;
+    border-radius: 11px;
+}
+
+.flip-card-inner {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    transition: transform 0.6s;
+    transform-style: preserve-3d;
+
+}
+
+.flip-card .flip-card-inner:hover {
+    transform: rotateY(180deg);
+}
+
+.flip-card-front,
+.flip-card-back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+}
+
+.flip-card-front {
+    background-color: #000000;
+    color: black;
+    width: 270px;
+}
+
+.flip-card-back {
+    background-color: #000000;
+    color: white;
+    transform: rotateY(180deg);
+    height: 350px;
+
+}
+
+.section-5 .section-div-5 .sub-section-div-005 .last-h3-div {
+    text-align: center;
+    margin-top: 7%;
+}
+
+.section-5 .section-div-5 .sub-section-div-005 .last-h3-div h3 {
+    font-size: 2.5rem;
+    font-weight: 900;
+}
+
+.section-5 .section-div-5 .sub-section-div-005 .last-h3-div p {
+    font-size: 1.2rem;
+}
+
+.section-5 .section-div-5 .sub-section-div-005 .last-h3-div button {
+    padding: 12px 18px;
+    border-radius: 10px;
+    font-size: 17px;
+    font-weight: 800;
+    border: solid #C06522;
+    background-color: transparent;
+}
+
+.section-5 .section-div-5 .sub-section-div-005 .last-h3-div button:hover {
+    background-color: #369392;
+    color: #000;
+    border: solid #369392;
+}
+
+/* svg */
+.section-divider-bottom {
+    color: #140E13/*var(--base-color-brand--teal-light)*/;
+    width: 100%;
+    height: 2rem;
+    position: absolute;
+    top: auto;
+    bottom: auto;
+    left: 0;
+    overflow: hidden;
+    transform: rotate(180deg);
+    background-color: #F4ECE8;
+}
+
+html.w-mod-touch * {
+    background-attachment: scroll !important;
+}
+
+.avtar-img{
+    width:270px;
+    height:300px;
+}

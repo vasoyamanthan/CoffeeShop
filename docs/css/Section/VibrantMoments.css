@@ -1,0 +1,106 @@
+
+/* section-7 */
+.section-7 {
+    background-color: #F4ECE8;
+    color: #000;
+    padding-top: 5%;
+}
+
+.section-7 .section-div-7 .sub-section-div-007 .vibrant-moments-div {
+    text-align: center;
+}
+
+.section-7 .section-div-7 .sub-section-div-007 .vibrant-moments-div h2 {
+    font-size: 5.5rem;
+    font-weight: 900;
+}
+
+.section-7 .section-div-7 .sub-section-div-007 .vibrant-moments-div p {
+    font-size: 18px;
+}
+
+.section-7 .vibrant-img-div .img-class-03 {
+    width: 100%;
+    border-radius: 43px;
+    margin-top: 6%;
+}
+.section-7 .section-div-7 .sub-section-div-007 .faq-h2-div{
+    padding-top: 9%;
+    text-align: center;
+}
+.section-7 .section-div-7 .sub-section-div-007 .faq-h2-div h2 {
+    font-size: 5.5rem;
+    font-weight: 800;
+}
+.section-7 .section-div-7 .sub-section-div-007 .faq-h2-div p {
+    font-size: 18px;
+}
+.section-7 .section-div-7 .sub-section-div-007  .border-btn {
+    border: none;
+    background-color: white;
+    border-radius: 20px;
+    padding: 3% 2%;
+    margin: 1% 0;
+}
+.section-7 .section-div-7 .sub-section-div-007  .toggle-div-007 {
+    width: 50%;
+    text-align: left;
+}
+.section-7 .section-div-7 .sub-section-div-007  .toggle-div-007  .card.card-body {
+    width: 50%;
+    text-align: left;
+    margin: 0 auto;
+    font-size: 18px;
+    border-radius: 11px;
+}
+.section-7 .section-div-7 .sub-section-div-007  .border-btn  button.btn {
+    font-size: 1.5rem;
+    font-weight: 900;
+}
+.section-7 .section-div-7 .sub-section-div-007  .border-btn  button.btn:hover {
+    color: #C06522;
+}
+div#demo {
+    padding: 2%;
+}
+div#demo-001 {
+    padding-left: 2%;
+}
+div#demo-002 {
+    padding-left: 2%;
+}
+div#demo-003 {
+    padding-left: 2%;
+}
+div#demo-004 {
+    padding-left: 2%;
+}
+.main-toggle-div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.still-have-div {
+    text-align: center;
+    margin-top: 4%;
+}
+.still-have-div h2 {
+    font-size: 2.5rem;
+    font-weight: 900;
+}
+.still-have-div p {
+    font-size: 19px;
+}
+.still-have-div button {
+    padding: 13px 29px;
+    background-color: transparent;
+    border-radius: 11px;
+    border: 2px solid #C06522;
+    font-weight: 900;
+    margin-bottom: 5%;
+}
+.still-have-div button:hover{
+    background-color: #369392;
+    border: #369392 solid;
+}
